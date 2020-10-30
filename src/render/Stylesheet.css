@@ -1,0 +1,31 @@
+
+
+.root{
+	-fx-background-image: url("/sprites/Poker%20Background.jpg");
+    -fx-background-size: cover;
+    -fx-font-size: 14pt;
+}
+
+.button{
+    -fx-background-color: #B00909;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 20;
+   
+}
+
+.label{
+    -fx-font-family: Futura;
+    -fx-text-fill: #000000;
+    -fx-font-style: normal;
+    -fx-font-size: 30px;
+   
+}
+#name{
+    -fx-font-size: 60px;
+}
+
+.button{
+    -fx-font-family: ArcadeFont;
+    -fx-font-style: normal;
+    -fx-font-size: 20px;
+}
